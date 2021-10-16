@@ -1,0 +1,18 @@
+.navbar-brand {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 2rem;
+}
+.navbar-collapse ul li a:hover {
+  background: #333399;
+}
+
+.btn-primary {
+  background: #242526;
+  border-color: #ffffff;
+  box-shadow: none;
+}
+
+.btn-primary:hover {
+  background: #333399;
+  border-color: #ffffff;
+}
